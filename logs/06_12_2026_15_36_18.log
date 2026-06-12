@@ -1,0 +1,22 @@
+[ 2026-06-12 15:36:21,535 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-12 15:36:21,554 ] 97 werkzeug - INFO -  * Debugger PIN: 635-606-678
+[ 2026-06-12 15:36:22,522 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:22] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 15:36:22,592 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:22] "[33mGET /static/graph/confusion_matrix.png HTTP/1.1[0m" 404 -
+[ 2026-06-12 15:36:23,175 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:23] "[36mGET /static/graph/customer_distribution.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:23,182 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:23] "[36mGET /static/graph/internet_vs_churn.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:23,193 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:23] "[36mGET /static/graph/contract_vs_churn.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:23,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:23] "[36mGET /static/graph/roc_curve.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:25,963 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:25] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 15:36:26,011 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:26] "[36mGET /static/graph/customer_distribution.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:26,019 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:26] "[36mGET /static/graph/contract_vs_churn.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:26,028 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:26] "[36mGET /static/graph/internet_vs_churn.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:26,030 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:26] "[33mGET /static/graph/confusion_matrix.png HTTP/1.1[0m" 404 -
+[ 2026-06-12 15:36:26,044 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:26] "[36mGET /static/graph/roc_curve.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:36:39,696 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:39] "GET / HTTP/1.1" 200 -
+[ 2026-06-12 15:36:45,361 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:36:45] "GET /prediction HTTP/1.1" 200 -
+[ 2026-06-12 15:37:09,409 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:37:09] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 15:37:09,461 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:37:09] "[36mGET /static/graph/customer_distribution.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:37:09,464 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:37:09] "[33mGET /static/graph/confusion_matrix.png HTTP/1.1[0m" 404 -
+[ 2026-06-12 15:37:09,465 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:37:09] "[36mGET /static/graph/contract_vs_churn.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:37:09,470 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:37:09] "[36mGET /static/graph/internet_vs_churn.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:37:09,477 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:37:09] "[36mGET /static/graph/roc_curve.png HTTP/1.1[0m" 304 -

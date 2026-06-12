@@ -1,0 +1,9 @@
+[ 2026-06-12 10:42:32,214 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-12 10:42:32,223 ] 97 werkzeug - INFO -  * Debugger PIN: 635-606-678
+[ 2026-06-12 10:42:34,387 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:42:34] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:42:35,738 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:42:35] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:42:41,888 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:42:41] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:43:17,850 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:43:17] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:43:20,521 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:43:20] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:44:53,517 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:44:53] "GET / HTTP/1.1" 200 -
+[ 2026-06-12 10:44:57,128 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:44:57] "POST /predict HTTP/1.1" 200 -

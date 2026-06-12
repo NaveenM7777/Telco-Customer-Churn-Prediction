@@ -1,0 +1,5 @@
+[ 2026-06-12 10:45:24,643 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-12 10:45:24,650 ] 97 werkzeug - INFO -  * Debugger PIN: 635-606-678
+[ 2026-06-12 10:45:27,442 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:45:27] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:45:28,800 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 10:45:28] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 10:51:07,033 ] 97 werkzeug - INFO -  * Detected change in 'D:\\PPPPP2\\CHURN_ANALYSIS_ML\\test_prediction.py', reloading

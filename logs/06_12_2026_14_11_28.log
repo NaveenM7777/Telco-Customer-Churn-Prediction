@@ -1,0 +1,6 @@
+[ 2026-06-12 14:11:28,300 ] 42 root - INFO - Data Ingestion Started
+[ 2026-06-12 14:11:31,614 ] 52 root - INFO - Dataset Loaded Successfully
+[ 2026-06-12 14:11:31,820 ] 98 root - INFO - Data Ingestion Completed
+[ 2026-06-12 14:11:31,868 ] 42 root - INFO - Train and Test Data Loaded
+[ 2026-06-12 14:11:31,915 ] 139 root - INFO - Preprocessor Saved Successfully
+[ 2026-06-12 14:11:31,915 ] 39 root - INFO - Model Training Started

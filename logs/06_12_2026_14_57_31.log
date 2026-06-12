@@ -1,0 +1,10 @@
+[ 2026-06-12 14:57:32,264 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-12 14:57:32,264 ] 97 werkzeug - INFO -  * Debugger PIN: 635-606-678
+[ 2026-06-12 14:57:48,299 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 14:57:48] "POST /predict HTTP/1.1" 200 -
+[ 2026-06-12 14:57:48,681 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 14:57:48] "GET /static/graph/contract_vs_churn.png HTTP/1.1" 200 -
+[ 2026-06-12 14:57:48,685 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 14:57:48] "GET /static/graph/internet_vs_churn.png HTTP/1.1" 200 -
+[ 2026-06-12 14:57:48,689 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 14:57:48] "GET /static/graph/customer_distribution.png HTTP/1.1" 200 -
+[ 2026-06-12 14:57:48,694 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 14:57:48] "GET /static/graph/confusion_matrix.png HTTP/1.1" 200 -
+[ 2026-06-12 14:57:48,697 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 14:57:48] "GET /static/graph/roc_curve.png HTTP/1.1" 200 -
+[ 2026-06-12 15:01:02,612 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:01:02] "[36mGET /static/graph/customer_distribution.png HTTP/1.1[0m" 304 -
+[ 2026-06-12 15:12:06,356 ] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 15:12:06] "[36mGET /static/graph/customer_distribution.png HTTP/1.1[0m" 304 -
