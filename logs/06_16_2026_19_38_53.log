@@ -1,0 +1,8 @@
+[ 2026-06-16 19:38:54,000 ] 42 root - INFO - Data Ingestion Started
+[ 2026-06-16 19:38:57,625 ] 52 root - INFO - Dataset Loaded Successfully
+[ 2026-06-16 19:38:57,826 ] 98 root - INFO - Data Ingestion Completed
+[ 2026-06-16 19:38:57,891 ] 42 root - INFO - Train and Test Data Loaded
+[ 2026-06-16 19:38:57,939 ] 139 root - INFO - Preprocessor Saved Successfully
+[ 2026-06-16 19:38:57,939 ] 39 root - INFO - Model Training Started
+[ 2026-06-16 19:39:02,196 ] 70 root - INFO - Model Accuracy : 0.8073916133617626
+[ 2026-06-16 19:39:02,196 ] 79 root - INFO - Model Saved Successfully
